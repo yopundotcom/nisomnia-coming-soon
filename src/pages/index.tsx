@@ -36,6 +36,7 @@ export default function Home() {
                 <NextLink
                   href="https://www.facebook.com/nisomniacom"
                   target="_blank"
+                  rel="noreferrer"
                   title="Nisomnia On Facebook"
                   className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-blue-600 hover:border-blue-600 hover:bg-blue-600 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
                 >
@@ -46,6 +47,7 @@ export default function Home() {
                 <a
                   href="https://twitter.com/nisomniacom"
                   target="_blank"
+                  rel="noreferrer"
                   title="Nisomnia On Twitter"
                   className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-blue-500 hover:border-blue-500 hover:bg-blue-500 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
                 >
@@ -56,6 +58,7 @@ export default function Home() {
                 <a
                   href="https://instagram.com/nisomniacom/"
                   target="_blank"
+                  rel="noreferrer"
                   title="Nisomnia On Instagram"
                   className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-sky-500 hover:border-orange-500 hover:bg-orange-500 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
                 >
@@ -66,6 +69,7 @@ export default function Home() {
                 <a
                   href="https://pinterest.com/nisomniacom/"
                   target="_blank"
+                  rel="noreferrer"
                   title="Nisomnia On Pinterest"
                   className="md:w-32 bg-white tracking-wide text-gray-800 font-bold rounded border-2 border-red-600 hover:border-red-600 hover:bg-red-600 hover:text-white shadow-md py-2 px-6 inline-flex items-center"
                 >
